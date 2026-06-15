@@ -1,0 +1,72 @@
+{
+  "name": "Ayush Pai Cursor Only Theme",
+  "type": "dark",
+
+  "colors": {
+    "editor.background": "#2981a6",
+    "editor.foreground": "#0f172a",
+
+    "statusBar.background": "#f8bbd0",
+    "statusBar.foreground": "#1e1e1e",
+
+    "activityBar.background": "#000000",
+    "activityBar.foreground": "#e5e7eb",
+    "activityBar.inactiveForeground": "#6b7280",
+
+    "sideBar.background": "#000000",
+    "sideBar.foreground": "#e5e7eb",
+    "sideBar.border": "#111111",
+
+    "panel.background": "#000000",
+    "panel.border": "#111111",
+    "terminal.background": "#000000",
+    "terminal.foreground": "#e5e7eb",
+
+    "editorCursor.foreground": "#a855f7",
+    "terminalCursor.foreground": "#a855f7",
+
+    "button.background": "#a855f7",
+    "button.foreground": "#ffffff",
+    "button.hoverBackground": "#9333ea",
+
+    "textLink.foreground": "#a855f7",
+    "textLink.activeForeground": "#c084fc",
+
+    "focusBorder": "#a855f7",
+    "badge.background": "#a855f7",
+    "badge.foreground": "#ffffff",
+
+    "editor.selectionBackground": "#93c5fd",
+    "editor.selectionHighlightBackground": "#60a5fa",
+    "editor.lineHighlightBackground": "#dbeafe",
+    "editorLineNumber.foreground": "#334155",
+    "editorLineNumber.activeForeground": "#0f172a"
+  },
+
+  "tokenColors": [
+    {
+      "scope": "comment",
+      "settings": { "foreground": "#475569" }
+    },
+    {
+      "scope": "string",
+      "settings": { "foreground": "#d44d4d" }
+    },
+    {
+      "scope": "keyword",
+      "settings": { "foreground": "#7c3aed" }
+    },
+    {
+      "scope": "variable",
+      "settings": { "foreground": "#1d4ed8" }
+    },
+    {
+      "scope": "function",
+      "settings": { "foreground": "#1e40af" }
+    },
+    {
+      "scope": "constant",
+      "settings": { "foreground": "#db2777" }
+    }
+  ]
+}

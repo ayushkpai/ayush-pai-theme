@@ -1,0 +1,21 @@
+{
+  "name": "ayush-pai-theme",
+  "displayName": "Ayush Pai Theme",
+  "description": "A good theme for vs code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.120.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ayush Pai Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ayush Pai Theme-color-theme.json"
+      }
+    ]
+  }
+}

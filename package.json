@@ -1,14 +1,15 @@
 {
   "name": "ayush-pai-theme",
   "displayName": "Ayush Pai Theme",
-  "description": "A good theme for vs code",
-  "version": "0.0.1",
+  "description": "A modern blue-black-purple developer theme by Ayush Pai",
+  "version": "1.0.0",
+  "publisher": "ayushpai",
   "engines": {
-    "vscode": "^1.120.0"
+    "vscode": "^1.80.0"
   },
-  "categories": [
-    "Themes"
-  ],
+  "categories": ["Themes"],
+  "icon": "images/icon.png",
+
   "contributes": {
     "themes": [
       {

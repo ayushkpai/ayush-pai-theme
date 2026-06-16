@@ -15,6 +15,17 @@
 
   "icon": "images/icon.png",
 
+  "homepage": "https://ayushpai.com",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ayushkpai/ayush-pai-theme.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/ayushkpai/ayush-pai-theme/issues"
+  },
+
   "contributes": {
     "themes": [
       {
@@ -25,8 +36,12 @@
     ]
   },
 
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ayushkpai/ayush-pai-theme.git"
-  }
+  "keywords": [
+    "theme",
+    "dark theme",
+    "purple theme",
+    "vscode theme",
+    "ayush pai",
+    "developer theme"
+  ]
 }

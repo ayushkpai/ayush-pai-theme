@@ -1,16 +1,20 @@
-# ayush-pai-theme README
+# 🌙 Ayush Pai Theme
 
-## Working with Markdown
+A modern **blue-black-purple** dark theme for VS Code designed for focus, clarity, and a smooth developer experience.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+---
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## ✨ Preview
 
-## For more information
+![Theme Preview](images/preview.png)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+---
 
-**Enjoy!**
+## 🚀 Features
+
+- 🌑 Deep dark editor background for reduced eye strain  
+- 💜 Purple accent highlights for focus  
+- 🔵 Soft blue syntax contrast  
+- 🎯 Clean UI with minimal distraction  
+- 🧠 Optimized for long coding sessions  
+- ⚡ Works well with modern languages (JS, TS, Python, etc.)

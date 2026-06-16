@@ -4,10 +4,15 @@
   "description": "A modern blue-black-purple developer theme by Ayush Pai",
   "version": "1.0.0",
   "publisher": "ayushpai",
+
   "engines": {
     "vscode": "^1.80.0"
   },
-  "categories": ["Themes"],
+
+  "categories": [
+    "Themes"
+  ],
+
   "icon": "images/icon.png",
 
   "contributes": {
@@ -15,8 +20,13 @@
       {
         "label": "Ayush Pai Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Ayush Pai Theme-color-theme.json"
+        "path": "./themes/ayush-pai-theme.json"
       }
     ]
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ayushkpai/ayush-pai-theme.git"
   }
 }

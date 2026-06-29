@@ -3,29 +3,22 @@
   "displayName": "Ayush Pai Theme",
   "description": "A modern blue-black-purple developer theme by Ayush Pai",
   "version": "1.0.0",
-  "publisher": "ayushpai",
-
+  "publisher": "Ayush Pai",
   "engines": {
     "vscode": "^1.80.0"
   },
-
   "categories": [
     "Themes"
   ],
-
   "icon": "images/icon.png",
-
   "homepage": "https://ayushpai.com",
-
   "repository": {
     "type": "git",
     "url": "https://github.com/ayushkpai/ayush-pai-theme.git"
   },
-
   "bugs": {
     "url": "https://github.com/ayushkpai/ayush-pai-theme/issues"
   },
-
   "contributes": {
     "themes": [
       {
@@ -35,7 +28,6 @@
       }
     ]
   },
-
   "keywords": [
     "theme",
     "dark theme",
